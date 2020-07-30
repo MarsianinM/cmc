@@ -5,8 +5,6 @@
     Author: MarsianinM
 */
 
-// Подключаем cmc-functions.php
-//require_once plugin_dir_path(__FILE__) . 'inc/cmc-functions.php';
 
 if (!defined('ABSPATH')) {
     die('Invalid request.');
